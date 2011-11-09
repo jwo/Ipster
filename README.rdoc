@@ -1,6 +1,6 @@
 = ipster
 
-A command line app created using GLI.
+A command line app created using GLI. This is really just a proof of concept. Don't use me (yet?)
 
 = <tt>ipster</tt>
 
