@@ -1,0 +1,6 @@
+= ipster
+
+A command line app created using GLI.
+
+:include:ipster.rdoc
+
